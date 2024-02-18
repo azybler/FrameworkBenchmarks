@@ -6,7 +6,7 @@ import (
 	"fasthttp/app/templates"
 	"sort"
 
-	pgx "github.com/jackc/pgx/v4"
+	pgx "github.com/jackc/pgx/v5"
 	"github.com/valyala/fasthttp"
 )
 

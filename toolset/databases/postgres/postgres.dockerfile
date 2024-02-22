@@ -1,4 +1,4 @@
-FROM postgres:16-bookwormr
+FROM postgres:12.18-bullseye
 
 ENV POSTGRES_USER=benchmarkdbuser
 ENV POSTGRES_PASSWORD=benchmarkdbpass
